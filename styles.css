@@ -1,0 +1,22 @@
+.topHalf{
+  color: blueviolet;
+  margin: 10px;
+  border: 4px solid green;
+  padding: 6px;
+  background-color: bisque;
+}
+
+img{
+  float: right;
+}
+
+.bottomHalf{
+  border: 5px solid black;
+  width: 50%;
+  float: left;
+}
+
+#importantLorem{
+  color: blue;
+  border: 5px solid red;
+}
